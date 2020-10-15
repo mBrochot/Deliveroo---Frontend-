@@ -19,5 +19,5 @@ See demo: https://deliveroo-montorgueil.netlify.app/
    <img
 		width="600"
 		alt="capture"
-		src="https://github.com/mBrochot/Deliveroo---Frontend-/blob/master/preview/capture-deliveroo.png">
+		src="https://github.com/mBrochot/Deliveroo---Frontend-/raw/master/preview/capture-deliveroo.png">
 </p>
