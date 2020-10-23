@@ -21,3 +21,12 @@ See demo: https://deliveroo-montorgueil.netlify.app/
 		alt="capture"
 		src="https://github.com/mBrochot/Deliveroo---Frontend-/raw/master/preview/capture-deliveroo.png">
 </p>
+
+
+<br/>
+
+### Contact
+
+find me on my <br/>
+<a href="https://www.linkedin.com/in/mathieu-brochot/"><img img width="100"
+  src="https://github.com/mBrochot/airbnb-replique/blob/master/preview/linkedIn.png"></a>
